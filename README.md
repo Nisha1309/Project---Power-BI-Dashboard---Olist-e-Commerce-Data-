@@ -1,1 +1,2 @@
 # Project---Power-BI-Dashboard---Olist-e-Commerce-Data-
+### We were tasked to analyse the provided dataset of Olist Store, the largest department store in Brazilian marketplaces. using our data analytics skills, prepare a PowerBI dashboard with visualisations that answer key questions like company’s customer demographics, sales trend, orders by categories, orders changes by year, product attributes etc.
